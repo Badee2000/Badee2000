@@ -14,7 +14,9 @@
 I am a Software Engineer with **+2 years of experience in Python**, specializing in backend development and building scalable applications.
 
 💡 **Problem Solver** - Solved **600+ problems** on LeetCode and Codeforces  
+
 💼 **Backend Specialist** - Python, Django, API, SQL
+
 📧 **Contact**: badeealiesmandar@gmail.com
 
 ---
@@ -79,8 +81,6 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badeealiesmandar@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badee2000)
-
-**📧 badeealiesmandar@gmail.com**
 
 </div>
 
