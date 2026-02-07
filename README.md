@@ -90,6 +90,4 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
   
 ### 💻 Always learning, always coding!
 
-![Snake animation](https://raw.githubusercontent.com/Badee2000/Badee2000/output/github-contribution-grid-snake.svg)
-
 </div>
