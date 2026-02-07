@@ -14,7 +14,7 @@
 I am a Software Engineer with **+2 years of experience in Python**, specializing in backend development and building scalable applications.
 
 💡 **Problem Solver** - Solved **600+ problems** on LeetCode and Codeforces  
-💼 **Backend Specialist** - Django, DRF, SQL  
+💼 **Backend Specialist** - Python, Django, API, SQL
 📧 **Contact**: badeealiesmandar@gmail.com
 
 ---
