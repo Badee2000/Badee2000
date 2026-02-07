@@ -1,7 +1,6 @@
 <div align="center">
   
-# 👋 Hey! I am here.
-### Software Engineer | Backend Developer
+# Software Engineer | Backend Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Badee2000&color=blueviolet)
 
