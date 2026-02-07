@@ -60,20 +60,6 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Badee2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Badee2000&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badee2000&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Badee2000&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Competitive Programming
 
 <div align="center">
