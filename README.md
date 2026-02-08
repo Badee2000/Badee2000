@@ -20,6 +20,32 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 
 ---
 
+## 💼 Featured Projects
+
+### 🌍 [Across MENA](https://www.acrossmena.com/)
+**Backend Engineer & Database Architect**
+
+- 🏗️ Built the **entire backend infrastructure** from scratch using **Django**
+- 🗄️ Designed and implemented a **complex relational database** architecture
+- ⚡ Developed scalable **RESTful APIs** for seamless frontend integration
+- 🔧 Optimized database queries and performance for production environment
+
+**Tech Stack:** `Django` `PostgreSQL/MySQL` `REST API` `Database Design`
+
+---
+
+### 🛒 [Zarela](https://zarela.onrender.com/en/)
+**Full-Stack Developer**
+
+- 🎨 Developed **complete full-stack application** (Backend + Frontend)
+- 🐍 Built robust backend with **Django** and **Django Templates**
+- ✨ Implemented interactive UI using **Vanilla JavaScript**
+- 🔐 Managed authentication, database design, and deployment
+
+**Tech Stack:** `Django` `JavaScript (Vanilla)` `HTML/CSS` `SQL`
+
+---
+
 ## ⚙️ Backend Skills
 
 ```python
@@ -56,6 +82,7 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
