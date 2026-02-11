@@ -22,6 +22,19 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 
 ## 💼 Featured Projects
 
+### 🚀 [Multi-Platform Deployer](https://github.com/Badee2000/multi-platform-deployer)
+**DevOps Tool Developer**
+
+- 🔧 Built a **universal deployment CLI tool** for Python web applications
+- ☁️ Supports multiple platforms: **Render, Railway, Vercel, Heroku**
+- ✅ Automated **production-readiness checks** for Flask, Django, and FastAPI apps
+- 🎯 Implemented **health checks, rollback capabilities, and multi-platform deployments**
+- 📦 Published as a **Python package** with comprehensive test coverage
+
+**Tech Stack:** `Python` `CLI Development` `DevOps` `Deployment Automation` `pytest`
+
+---
+
 ### 🌍 [Across MENA](https://www.acrossmena.com/)
 **Backend Engineer & Database Architect**
 
