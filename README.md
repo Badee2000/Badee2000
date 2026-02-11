@@ -23,7 +23,7 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 ## 💼 Featured Projects
 
 ### 🚀 [Multi-Platform Deployer](https://github.com/Badee2000/multi-platform-deployer)
-**DevOps Tool Developer**
+**Python Tool Developer**
 
 - 🔧 Built a **universal deployment CLI tool** for Python web applications
 - ☁️ Supports multiple platforms: **Render, Railway, Vercel, Heroku**
