@@ -50,15 +50,15 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 
 ---
 
-### 🛒 [Zarela](https://zarela.onrender.com/en/)
-**Full-Stack Developer**
+### 🚚 [Camion App](https://play.google.com/store/apps/details?id=com.acrossmena.camion)
+**Backend Developer at AcrossMENA** · Jan 2024 – Oct 2024
 
-- 🎨 Developed **complete full-stack application** (Backend + Frontend)
-- 🐍 Built robust backend with **Django** and **Django Templates**
-- ✨ Implemented interactive UI using **Vanilla JavaScript**
-- 🔐 Managed authentication, database design, and deployment
+- 🏗️ Built the **complete backend** for a multi-role logistics Android app serving merchants, drivers and fleet owners
+- 📍 Developed **RESTful APIs** for real-time shipment tracking and fleet management
+- 🗄️ Designed a **complex database** handling concurrent operations, with **role-based access control**
+- 📱 Live on [Google Play](https://play.google.com/store/apps/details?id=com.acrossmena.camion)
 
-**Tech Stack:** `Django` `JavaScript (Vanilla)` `HTML/CSS` `SQL`
+**Tech Stack:** `Python` `Django` `Django REST Framework` `Google Maps API`
 
 ---
 
