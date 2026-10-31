@@ -25,11 +25,14 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 ### 🚀 [Multi-Platform Deployer](https://github.com/Badee2000/multi-platform-deployer)
 **Python Tool Developer**
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Badee2000/badge.svg)](https://hub.xerj.org/contributors/Badee2000)
+
 - 🔧 Built a **universal deployment CLI tool** for Python web applications
-- ☁️ Supports multiple platforms: **Render, Railway, Vercel, Heroku**
+- ☁️ Supports **Render** (verified live), plus **Vercel, Railway and Heroku** (mock-tested, with dry-run mode)
 - ✅ Automated **production-readiness checks** for Flask, Django, and FastAPI apps
 - 🎯 Implemented **health checks, rollback capabilities, and multi-platform deployments**
-- 📦 Published as a **Python package** with comprehensive test coverage
+- 📦 Published as a **Python package** with **200 automated tests** and CI on Python 3.11 to 3.14
+- 🏅 Commit fixing the Vercel, Railway and Heroku deployers against official docs **selected for the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Badee2000)**, an open-source index of reference code for AI coding agents
 
 **Tech Stack:** `Python` `CLI Development` `DevOps` `Deployment Automation` `pytest`
 
