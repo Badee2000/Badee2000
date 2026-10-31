@@ -51,7 +51,7 @@ I am a Software Engineer with **+2 years of experience in Python**, specializing
 ---
 
 ### 🚚 [Camion App](https://play.google.com/store/apps/details?id=com.acrossmena.camion)
-**Backend Developer at AcrossMENA** · Jan 2024 – Oct 2024
+**Backend Engineer**
 
 - 🏗️ Built the **complete backend** for a multi-role logistics Android app serving merchants, drivers and fleet owners
 - 📍 Developed **RESTful APIs** for real-time shipment tracking and fleet management
